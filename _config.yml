@@ -1,0 +1,14 @@
+layout_spectrum: 0.8276047
+typography_spectrum: 0.7706767
+color:
+  saturation: 0.1091054
+  lightness: 0.8517163
+  brandStrength: 0.5408163
+  brandColors:
+    - '#060A0B'
+    - '#9AA338'
+    - '#D7E8F8'
+    - '#EAE091'
+    - '#F38827'
+  rhythmicContrast: 0.05440925
+name: Goodstix
